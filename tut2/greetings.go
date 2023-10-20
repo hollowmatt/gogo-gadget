@@ -1,3 +1,0 @@
-package greetings
-
-import "fmt"
